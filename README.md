@@ -1,2 +1,0 @@
-# portfolio-app
-App executável
